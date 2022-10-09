@@ -1,0 +1,33 @@
+
+h3{
+    text-align: center;
+    font-size:50px;
+    font-weight: bold;
+}
+.w3-container1{
+    padding: 10px;
+    margin-bottom: 10px;
+    float: right;
+    font-size: large;
+
+}
+.contact{
+    float: left;
+
+    color: black;
+    font-size: 20px;
+   
+}
+
+#contact{
+    background-color: gray;
+     justify-content: center;
+     text-align: center;
+
+
+}
+.con{
+font-weight: bold;
+text-align: center;
+margin-top: 5px;
+}
